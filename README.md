@@ -13,3 +13,13 @@ Você pode inicar com o comando:
 ```bash
 node index.js
 ```
+
+Entre com o usuário padrão de consumidor:
+registro: default
+senha: defaultConsumerUser
+
+ou
+
+Entre com o usuário padrão de consumidor:
+registro: default
+senha: defaultCpompanyUser
