@@ -22,4 +22,4 @@ ou
 
 Entre com o usuário padrão de consumidor:
 registro: default
-senha: defaultCpompanyUser
+senha: defaultCompanyUser
